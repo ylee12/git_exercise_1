@@ -1,1 +1,1 @@
-puts "Yong added this in feature 1."
+puts "A new start in file7 for new branch 2"
