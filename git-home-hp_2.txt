@@ -40,3 +40,9 @@ git checkout feature-1
 # show where/which branh currently in
 git branch
 
+# merge branch
+git checkout master
+git merge feature-1
+
+# mess up in feature
+ha ha ha
