@@ -46,3 +46,9 @@ git merge feature-1
 
 # push a new branch to remote 
 git push --set-upstream origin feature-1
+
+# delete a local branh
+git branch -d feature-2
+
+# delete a remote branh
+git push -d origin feature-2
