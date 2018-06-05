@@ -18,3 +18,15 @@ git reset HEAD --hard
 # Reset to the previous commit 
 git reset head^ --hard
 
+
+# show the last git 5 commits
+git log -5
+
+# show the last git 5 commits with concise message	
+git log -10 --oneline
+
+
+# adding local repo to remote
+git remote add origin git@github.com:ylee12/git_exercise_1.git
+git push -u origin master
+
