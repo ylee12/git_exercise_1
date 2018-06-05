@@ -30,3 +30,13 @@ git log -10 --oneline
 git remote add origin git@github.com:ylee12/git_exercise_1.git
 git push -u origin master
 
+
+# create a new branch
+git branch feature-1
+
+# switch to a branch
+git checkout feature-1
+
+# show where/which branh currently in
+git branch
+
