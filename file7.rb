@@ -1,1 +1,1 @@
-puts "A new start in file7 for new branch 3"
+puts "A new start in file7 for new branch 3 and I add this more:"
